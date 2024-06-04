@@ -1,6 +1,4 @@
-document.getElementById("botonIrRegistro").addEventListener('click', function () {
-  window.location.href = 'registro.html';
-})
+
 //funcion de inicio de secion 
 document.getElementById("botonIniciarSesion").addEventListener('click', function () {
   var usuario = document.getElementById("campoUsuario").value;
